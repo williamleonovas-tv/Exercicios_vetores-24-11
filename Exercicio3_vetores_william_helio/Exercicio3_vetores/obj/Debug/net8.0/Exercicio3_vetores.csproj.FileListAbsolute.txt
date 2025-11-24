@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\bin\Debug\net8.0\Exercicio3_vetores.exe
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\bin\Debug\net8.0\Exercicio3_vetores.deps.json
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\bin\Debug\net8.0\Exercicio3_vetores.runtimeconfig.json
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\bin\Debug\net8.0\Exercicio3_vetores.dll
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\bin\Debug\net8.0\Exercicio3_vetores.pdb
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.dll
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\refint\Exercicio3_vetores.dll
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.pdb
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\Exercicio3_vetores.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercicio3_vetores\Exercicio3_vetores\obj\Debug\net8.0\ref\Exercicio3_vetores.dll

@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\bin\Debug\net8.0\Exercicio2_vetores.exe
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\bin\Debug\net8.0\Exercicio2_vetores.deps.json
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\bin\Debug\net8.0\Exercicio2_vetores.runtimeconfig.json
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\bin\Debug\net8.0\Exercicio2_vetores.dll
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\bin\Debug\net8.0\Exercicio2_vetores.pdb
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.AssemblyInfo.cs
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.dll
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\refint\Exercicio2_vetores.dll
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.pdb
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\Exercicio2_vetores.genruntimeconfig.cache
+C:\Users\user\source\repos\Exercicio2_vetores\Exercicio2_vetores\obj\Debug\net8.0\ref\Exercicio2_vetores.dll
